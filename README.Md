@@ -1,1 +1,1 @@
-This is a practice on the basics of HTML focusing on Title of the webpage, html 5 tag, Head tag, body tag, H1 tag and the p tag.
+This is a practice on the basics of HTML focusing on Title of the webpage, html 5 tag, Head tag, body tag, H1 tag,p tag and the img tag.
